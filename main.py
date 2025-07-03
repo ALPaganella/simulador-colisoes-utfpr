@@ -117,8 +117,8 @@ AZUL = (0, 0, 255)
 VERDE_ESQUISITO = (0, 255, 255)
 
 # Variáveis para as bolas (bolas iguais)
-raio_bola = 15 # Raio um pouco menor para caber mais bolas
-massa_bola = 1 # Todas as bolas com a mesma massa por enquanto
+raio_bola = 15
+massa_bola = 1 
 
 lista_bolas = []
 
