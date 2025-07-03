@@ -1,3 +1,5 @@
+#Arthur Leonel Paganella
+#simulador de colisões fisica 1 (estilo mesa de sinuca)
 #estou usando a biblioteca pygame (recomendaação do PETECO)
 import pygame
 import math
